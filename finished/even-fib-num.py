@@ -15,8 +15,7 @@ def fibEven(n):
 
     while True:
         n3 = n1 + n2
-        
-        
+
         if n3 >= n:
             break
 
